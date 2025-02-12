@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://moju520.github.io</id>
+    <title>moju</title>
+    <updated>2025-02-12T03:12:34.764Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://moju520.github.io"/>
+    <link rel="self" href="https://moju520.github.io/atom.xml"/>
+    <subtitle>一汪清泉，一株烟火</subtitle>
+    <logo>https://moju520.github.io/images/avatar.png</logo>
+    <icon>https://moju520.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, moju</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么减肥这么难]]></title>
+        <id>https://moju520.github.io/post/eda1ooCBrV/</id>
+        <link href="https://moju520.github.io/post/eda1ooCBrV/">
+        </link>
+        <updated>2025-01-29T14:31:04.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何找到我]]></title>
+        <id>https://moju520.github.io/post/ru-he-zhao-dao-wo/</id>
+        <link href="https://moju520.github.io/post/ru-he-zhao-dao-wo/">
+        </link>
+        <updated>2023-09-14T14:44:38.000Z</updated>
+    </entry>
+</feed>
